@@ -1,0 +1,9 @@
+
+discord.py>=2.4.0
+
+python-dotenv
+
+# Persistencia de datos (partidas, usuarios)
+tinydb
+
+colorama
